@@ -7,8 +7,8 @@ var app = builder.Build();
 
 app.UseMiddleware<RateLimitingMiddleware>(new RateLimitingMiddleware.RateLimitOptions
 {
-    MaxRequests = 10, // 10 запросов для теста
-    TimeWindow = TimeSpan.FromSeconds(30) // 30 секунд
+    MaxRequests = 10, 
+    TimeWindow = TimeSpan.FromSeconds(30)
 });
 
 app.MapControllers();
