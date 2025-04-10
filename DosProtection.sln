@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DosProtection", "DosProtection\DosProtection.csproj", "{730E06EC-E0B1-4951-86CB-59BF8D0C5676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730E06EC-E0B1-4951-86CB-59BF8D0C5676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730E06EC-E0B1-4951-86CB-59BF8D0C5676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730E06EC-E0B1-4951-86CB-59BF8D0C5676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730E06EC-E0B1-4951-86CB-59BF8D0C5676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35EBB9F5-CDCA-412F-B81F-4F06A10C2D2E}
+	EndGlobalSection
+EndGlobal
